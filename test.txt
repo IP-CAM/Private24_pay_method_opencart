@@ -1,0 +1,5 @@
+Array
+(
+    [payment] => amt=1.00&ccy=UAH&details=Оплата&ext_details=Описание&pay_way=privat24&order=2093789583&merchant=76666&state=test&date=061113134553&ref=test payment&sender_phone=+380502399951&payCountry=UA
+    [signature] => 78e64d0de9c4355beb9de1f90302da495e127297
+)
